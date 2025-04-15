@@ -12,8 +12,8 @@
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
 ✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an [email](gez.carlos.98@gmail.com)! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/12XoebO5EKtYr2d7uZn2xJXmV2OPr2tvA/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -78,11 +78,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/carlos-gez/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gez.carlos.98@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/gezcarlos/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/carlos-gez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-gez/" height="30" width="40" /></a>
+  <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/gezcarlos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gezcarlos" height="30" width="40" /></a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
