@@ -6,11 +6,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
+👨‍💻 &nbsp;I'm currently working as a freelance full-stack developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
+🎓 &nbsp;I'm currently studying a Software Development Technician degree at Instituto de Formación Técnica Superior N° 29.\
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
+✍️ &nbsp;In my free time, I develop mobile apps and blog as a hobby/side hustle.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an [email](gez.carlos.98@gmail.com)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/12XoebO5EKtYr2d7uZn2xJXmV2OPr2tvA/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
@@ -79,7 +79,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-gez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-gez/" height="30" width="40" /></a>
-  <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
+  <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
   <a href="https://www.instagram.com/gezcarlos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gezcarlos" height="30" width="40" /></a>
 </p>
 
