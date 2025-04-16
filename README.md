@@ -16,7 +16,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/12XoebO5EKtYr2d7uZn2xJXmV2OPr2tvA/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" align="right" height="400em"/>
 
 ### 🛠 &nbsp;Tech Stack
 
