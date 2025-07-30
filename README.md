@@ -1,4 +1,5 @@
-![Gez Carlos Banner](https://media.licdn.com/dms/image/v2/D4D16AQHDT5yT-7thkQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719349903662?e=1750291200&v=beta&t=kjDravB2CBO2Ln5DaxzpMDw79-r60l63_5enrPEktlU)
+![Gez Carlos Banner](https://media.licdn.com/dms/image/v2/D4D16AQHDT5yT-7thkQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719349903662?e=1756944000&v=beta&t=mNCWGsM7rh4dJZCMAEPVua-EWHKnB-Gd0oL1AC3CGh0)
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Gez Carlos</h2>
 
